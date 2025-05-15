@@ -1,8 +1,8 @@
 {
-  "url": "https://Pandusss.github.io/ton-manifest-test",
+  "url": "https://Pandusss.github.io/ton-manifest",
   "name": "Ellipsis Local",
-  "iconUrl": "https://Pandusss.github.io/ton-manifest-test/icon.png",
-  "termsOfUseUrl": "https://yoPandusssurusername.github.io/ton-manifest-test/terms",
-  "privacyPolicyUrl": "https://Pandusss.github.io/ton-manifest-test/privacy",
+  "iconUrl": "https://Pandusss.github.io/ton-manifest/icon.png",
+  "termsOfUseUrl": "https://yoPandusssurusername.github.io/ton-manifest/terms",
+  "privacyPolicyUrl": "https://Pandusss.github.io/ton-manifest/privacy",
   "network": "testnet"
 }
